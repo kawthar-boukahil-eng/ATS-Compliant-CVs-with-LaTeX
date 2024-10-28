@@ -1,7 +1,7 @@
 # ATS-Compliant CVs with LaTeX
 
 Welcome to my repository showcasing ATS-compliant CVs built using LaTeX in Overleaf. ATS-compliant CVs are crucial for optimizing job applications as they are easily parsed by automated tracking systems used by companies to filter resumes.
-
+1[ats](https://github.com/kawthar-boukahil-eng/ATS-Compliant-CVs-with-LaTeX/blob/main/Screenshot%20from%202024-10-28%2023-38-36.png)
 ## Why ATS-Compliant CVs?
 Many companies today use Applicant Tracking Systems (ATS) to streamline their hiring processes. These systems automatically scan and parse CVs, identifying relevant keywords and qualifications. However, complex formatting and non-standard fonts can prevent these systems from correctly reading your resume. That's where ATS-compliant CVs come in—using a simple, clean format that is compatible with ATS, ensuring your qualifications are not overlooked.
 
